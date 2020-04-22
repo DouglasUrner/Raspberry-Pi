@@ -7,6 +7,8 @@
 
 ### Minimizing power consumption
 
+* [SleepyPi](https://spellfoundry.com/product/sleepy-pi-2-usb-c/)
+
 ## Methods of supplying power
 
 #### USB Micro B 
