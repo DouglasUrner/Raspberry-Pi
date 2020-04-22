@@ -13,6 +13,8 @@
 
 ## Line Power
 
+## PoE
+
 ## Battery Power
 
 ## Solar Power
