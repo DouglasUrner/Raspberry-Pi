@@ -1,5 +1,9 @@
 # GPIO Lore
 
+## 40-pin Header
+
+![][https://pinout.xyz/resources/raspberry-pi-pinout.png]
+
 ## 1-Wire Bus
 * Default GPIO pin is #4.
 * A 4.7K Ω pullup to the 3.3V rail is required. The internal pullup is about 60K Ω and likely won't produce enough power.
