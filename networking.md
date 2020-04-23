@@ -11,7 +11,9 @@
 1. Move the SD card to the Pi and boot.
 1. `ssh pi@raspberrypi.local # default password is 'raspberry'`
 
-## MAC Address – Finding a Pi on your network
+## Finding a Pi on your network
+
+On macOS: `ping raspberrypi.local` will do it, assuming the default configuration.
 
 All Raspberry Pi MAC addresses start with `B8:27:EB`, you can find their IP addresses with ARP:
 
