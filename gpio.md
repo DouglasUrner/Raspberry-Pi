@@ -2,7 +2,7 @@
 
 ## 40-pin Header
 
-![][https://pinout.xyz/resources/raspberry-pi-pinout.png]
+![](https://pinout.xyz/resources/raspberry-pi-pinout.png)
 
 ## 1-Wire Bus
 * Default GPIO pin is #4.
