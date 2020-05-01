@@ -3,6 +3,8 @@
 ## Configuring for headless boot
 
 1. Install OS image on an SD card.
+   - 16 GD or larger, speed?
+   - For embedded systems, use Raspbian Lite.
 1. Touch `ssh` in the root of the `boot` volume.
 1. Configure wifi (if using):
 
