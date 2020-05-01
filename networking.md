@@ -16,8 +16,9 @@
           ssid="SSID"
           psk="PASSWORD"
           key_mgmt=WPA-PSK
-       }
+   }
    ```
+   Where `COUNTRY` is the two letter code for your location, e.g., `US`. `SSID` and `PASSWORD` are what you'd expect.
 1. Move the SD card to the Pi and boot.
 1. `ssh pi@raspberrypi.local # default password is 'raspberry'`
 
