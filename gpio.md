@@ -11,3 +11,8 @@
 * Multiple 1-Wire busses are supported in recent kernels (discussion [here](https://www.raspberrypi.org/forums/viewtopic.php?t=156734)).
 * Alternative driver: [pstolarz/w1-gpio-cl](https://github.com/pstolarz/w1-gpio-cl) - documents use of parasitic power of the device.
 * [Additional info](https://pinout.xyz/pinout/1_wire).
+
+### DS18B20 Temperature Sensor
+
+Python library:
+```pip3 install w1thermsensor```
