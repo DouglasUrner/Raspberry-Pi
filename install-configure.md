@@ -19,3 +19,11 @@
 ## Pi Bakery
 
 ## Serial Console
+
+Using an Adafruit USB-to-Serial cable, connect:
+* Black to GND (pin 3 on outside from near edge)
+* White to TXD (pin 4 on outside)
+* Green to RDX (pin 5 on outside)
+* Red unconnected (except on Pi 0 where it can be used to supply power through the 5V pin (1 or 2)
+
+The default baud rate is 115,200
