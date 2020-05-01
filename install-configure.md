@@ -2,6 +2,8 @@
 
 ## Tasks
 
+### SD Card Setup
+
 1. Install OS image
 1. Enable serial console  
    Add the following lines near the end of `config.txt` in the root of the boot volumne on the SD card:
@@ -13,6 +15,10 @@
 1. Enable SSH
 1. Set hostname
 1. Set password
+
+### Post-Install
+
+1. Install `pip`
 
 ## Manual / Standard Method
 
