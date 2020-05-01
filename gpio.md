@@ -14,5 +14,5 @@
 
 ### DS18B20 Temperature Sensor
 
-Python library:
+Python library:  
 ```pip3 install w1thermsensor```
