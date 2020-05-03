@@ -22,6 +22,8 @@
 
 ## Manual / Standard Method
 
+1. Install the OS image (using[Raspberry Pi Imager](https://www.raspberrypi.org/downloads/))
+
 ## Pi Bakery
 
 ## Serial Console
