@@ -7,7 +7,7 @@ Depending on the method chosen for building the SD image some steps may have to 
 1. Install OS image
 1. Enable serial console  
    Add the following lines near the end of `config.txt` in the root of the boot volumne on the SD card:
-   ```
+   ```bash
    # Enable serial console
    enable_uart=1
    ```
@@ -16,7 +16,7 @@ Depending on the method chosen for building the SD image some steps may have to 
 1. Set hostname
 1. Set timezone
    ```bash
-   sudo timedatectl set-timezone Australia/Sydney
+   sudo timedatectl set-timezone America/Vancouver
    ```
 1. Change password
 1. Install `pip`
