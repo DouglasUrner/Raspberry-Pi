@@ -15,6 +15,9 @@ Depending on the method chosen for building the SD image some steps may have to 
 1. Enable SSH
 1. Set hostname
 1. Set timezone
+   ```bash
+   sudo timedatectl set-timezone Australia/Sydney
+   ```
 1. Change password
 1. Install `pip`
 1. Enable interfaces
