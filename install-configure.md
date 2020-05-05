@@ -24,7 +24,7 @@ Depending on the method chosen for building the SD image some steps may have to 
 
 ## Manual / Standard Method
 
-1. Install the OS image (using[Raspberry Pi Imager](https://www.raspberrypi.org/downloads/))
+1. Install the OS image (using [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/))
 
 ## Pi Bakery
 
