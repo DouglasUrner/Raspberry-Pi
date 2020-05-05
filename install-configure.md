@@ -2,7 +2,7 @@
 
 ## Tasks
 
-### SD Card Setup
+Depending on the method chosen for building the SD image some steps may have to be done after the first boot.
 
 1. Install OS image
 1. Enable serial console  
@@ -14,11 +14,10 @@
 1. [Configure WiFi network](networking.md)
 1. Enable SSH
 1. Set hostname
-1. Set password
-
-### Post-Install
-
+1. Set timezone
+1. Change password
 1. Install `pip`
+1. Enable interfaces
 
 ## Manual / Standard Method
 
@@ -26,7 +25,7 @@
 
 ## Pi Bakery
 
-## Serial Console
+## Serial Console Connections
 
 Using an Adafruit USB-to-Serial cable, connect:
 * Black to GND (pin 3 on outside from near edge)
