@@ -48,3 +48,5 @@ Using an Adafruit USB-to-Serial cable, connect:
 The default baud rate is 115,200
 
 Connect with `screen /dev/cu.usbserial-NNNN 115200`.
+
+### Enabling the serial console after first boot
