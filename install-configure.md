@@ -40,9 +40,9 @@ Depending on the method chosen for building the SD image some steps may have to 
 ## Serial Console Connections
 
 Using an Adafruit USB-to-Serial cable, connect:
-* Black to GND (pin 3 on outside from near edge)
-* White to TXD (pin 4 on outside)
-* Green to RDX (pin 5 on outside)
+* Black to GND (pin 6 - 3rd on outside (closest to edges)
+* White to TXD (pin 8 - 4th on outside)
+* Green to RDX (pin 10 - 5th on outside)
 * Red unconnected (except on Pi 0 where it can be used to supply power through the 5V pin (1 or 2)
 
 The default baud rate is 115,200
