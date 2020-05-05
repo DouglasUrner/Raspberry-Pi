@@ -25,6 +25,13 @@ Depending on the method chosen for building the SD image some steps may have to 
 ## Manual / Standard Method
 
 1. Install the OS image (using [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/))
+1. Remount the SD card
+1. Enable ssh: `touch /Volumes/boot/ssh`
+1. Create [`wpa_suplicant.conf`](networking.md) and set the network configuration.
+1. Enable the serial console
+1. Unmount the SD card
+1. Install in the Pi and boot
+1. Connect to the Pi: `ssh pi@raspberrypi.local`
 
 ## Pi Bakery
 
