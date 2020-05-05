@@ -29,6 +29,8 @@ Depending on the method chosen for building the SD image some steps may have to 
 1. Enable ssh: `touch /Volumes/boot/ssh`
 1. Create [`wpa_suplicant.conf`](networking.md) and set the network configuration.
 1. Enable the serial console
+1. Enable GPIO interfaces
+   - 1-Wire: `dtoverlay=w1-gpio,gpiopin=4`
 1. Unmount the SD card
 1. Install in the Pi and boot
 1. Connect to the Pi: `ssh pi@raspberrypi.local`
