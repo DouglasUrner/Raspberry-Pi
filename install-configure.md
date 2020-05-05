@@ -11,7 +11,7 @@
    # Enable serial console
    enable_uart=1
    ```
-1. [Configure WiFi network](network.md)
+1. [Configure WiFi network](networking.md)
 1. Enable SSH
 1. Set hostname
 1. Set password
