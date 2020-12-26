@@ -4,6 +4,12 @@
 
 ![](https://pinout.xyz/resources/raspberry-pi-pinout.png)
 
+## General
+
+### Command Line Access
+
+* [Bash Script Control of GPIO Ports](http://raspberrypi-aa.github.io/session2/bash.html)
+
 ## 1-Wire Bus
 * Default GPIO pin is #4.
 * A 4.7K Ω pullup to the 3.3V rail is required. The internal pullup is about 60K Ω and likely won't produce enough power.
