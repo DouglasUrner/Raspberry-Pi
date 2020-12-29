@@ -1,5 +1,9 @@
 # Installing & Configuring Raspberry Pi Computers
 
+## Generating SSH Keys
+
+[Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 ## Tasks
 
 Depending on the method chosen for building the SD image some steps may have to be done after the first boot.
