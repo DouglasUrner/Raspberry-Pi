@@ -26,6 +26,10 @@ Depending on the method chosen for building the SD image some steps may have to 
 1. Install `pip`
 1. Enable interfaces
 
+## NixOS
+
+[NixOS](https://nixos.org)
+
 ## Manual / Standard Method
 
 1. Install the OS image (using [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/))
