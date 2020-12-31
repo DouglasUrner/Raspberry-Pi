@@ -1,5 +1,7 @@
 # Raspberry Pi Models
 
+[Comparison Chart](https://cdn.shopify.com/s/files/1/0176/3274/files/Raspberry-Pi-Comparison_r4.pdf)
+
 | Model | CPU               | RAM  | Network                               | USB     | GPIO | Power |
 | :---  | :---              | ---: | :---                                  | :---    | ---: | ---:  |
 | 0     |
