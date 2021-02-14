@@ -1,5 +1,9 @@
 # Bare Metal
 
+## Hardware Documentation
+
+* [ARM Cortex-A Series Programmer's Guide for ARMv8-A](https://developer.arm.com/documentation/den0024/a/Preface)
+
 ## OS Examples / Tutorials
 
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86.
