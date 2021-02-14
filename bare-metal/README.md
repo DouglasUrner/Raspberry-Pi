@@ -2,7 +2,8 @@
 
 ## OS Examples / Tutorials
 
-* [Writing an OS in Rust](https://os.phil-opp.com)
+* [Writing an OS in Rust](https://os.phil-opp.com) - targets x86.
+* [Baking Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) - targets early Raspberry Pi boards.
 
 ## Toolchain
 
