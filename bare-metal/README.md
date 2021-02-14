@@ -7,6 +7,7 @@
 ## OS Examples / Tutorials
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - targets ARM v8-A in Rust. Nice source code organization.
+* [Georgia Tech CS-3210: Write an OS for the Raspberry Pi in Rust](https://tc.gts3.org/cs3210/2020/spring/lab.html)
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86. Has section on [Testing](https://os.phil-opp.com/testing/) in `#[no_std]` environments.
 * [This Month in Rust OSDev](https://rust-osdev.com)
 
