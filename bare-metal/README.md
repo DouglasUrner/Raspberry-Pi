@@ -8,6 +8,7 @@
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - targets ARM v8-A in Rust. Nice source code organization.
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86. Has section on [Testing](https://os.phil-opp.com/testing/) in `#[no_std]` environments.
+* [This Month in Rust OSDev](https://rust-osdev.com)
 
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io) - C
 * [rpi4-osdev](https://isometimes.github.io/rpi4-osdev/part1-bootstrapping/) - targets A72 (pi 4) in C.
