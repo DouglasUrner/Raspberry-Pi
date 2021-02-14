@@ -15,4 +15,5 @@
   
 * Emulator
   - [QEMU](https://www.qemu.org)
-    - Pi 0:
+    - Pi 0: `qemu-system-arm  -machine raspi0 -serial stdio -kernel <path-to-kernel-binary>`
+    - Pi 4: `qemu-system-aarch64  -machine raspi4 -serial stdio -kernel <path-to-kernel-binary>`
