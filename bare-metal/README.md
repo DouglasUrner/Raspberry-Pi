@@ -3,6 +3,8 @@
 ## OS Examples / Tutorials
 
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86.
+* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io) - C
+* [rpi4-osdev](https://isometimes.github.io/rpi4-osdev/part1-bootstrapping/) - targets A72 (pi 4) in C.
 * [Baking Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) - targets early Raspberry Pi boards.
 
 ## Toolchain
@@ -18,3 +20,8 @@
   - [QEMU](https://www.qemu.org)
     - Pi 0: `qemu-system-arm  -machine raspi0 -serial stdio -kernel <path-to-kernel-binary>`
     - Pi 4: `qemu-system-aarch64  -machine raspi4 -serial stdio -kernel <path-to-kernel-binary>`
+
+* Serial Console Interface
+  - Screen
+  - Serial Tools (App store)
+  - Cornflake
