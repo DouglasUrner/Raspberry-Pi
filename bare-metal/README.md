@@ -10,6 +10,8 @@
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86. Has section on [Testing](https://os.phil-opp.com/testing/) in `#[no_std]` environments.
 * [This Month in Rust OSDev](https://rust-osdev.com)
 
+Older or non-Rust resources.
+
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io) - C
 * [rpi4-osdev](https://isometimes.github.io/rpi4-osdev/part1-bootstrapping/) - targets A72 (pi 4) in C.
 * [Baking Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) - targets early Raspberry Pi boards.
