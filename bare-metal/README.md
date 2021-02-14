@@ -7,6 +7,7 @@
 ## OS Examples / Tutorials
 
 * [Writing an OS in Rust](https://os.phil-opp.com) - targets x86.
+* [Operating System development tutorials in Rust on the Raspberry Pi]() - targets ARM v8-A in Rust
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io) - C
 * [rpi4-osdev](https://isometimes.github.io/rpi4-osdev/part1-bootstrapping/) - targets A72 (pi 4) in C.
 * [Baking Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) - targets early Raspberry Pi boards.
