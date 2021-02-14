@@ -9,6 +9,10 @@
 * Compilers
   - GCC - [Official ARM version]()
   - Rust
+    - Pi 0: ARM v11 `rustup target add thumbv6-none-eabi`
+    - Pi 3: ARM v8 Cortex-A53 (aarch64): `rustup target add aarch64-unknown-none`
+    - Pi 4: ARM v8 Cortex-A72 (aarch64): `rustup target add aarch64-unknown-none` 
   
 * Emulator
   - [QEMU](https://www.qemu.org)
+    - Pi 0:
